@@ -1,0 +1,30 @@
+.btn {
+    white-space: pre-line;
+    padding-left: 0;
+}
+
+.container {
+    display: grid;
+}
+
+input#btngetNews {
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+label {
+    margin-top: 2.1rem;
+    font-size: 22px;
+    color: cornflowerblue;
+}
+
+.btn-link {
+    color: rgb(46, 13, 233);
+    text-decoration: unset;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
